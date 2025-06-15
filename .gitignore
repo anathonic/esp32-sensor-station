@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+# ESP32
+data
+debug_custom.json
+debug.cfg
+esp32.svd
+# MQTT
+mosquitto.conf
